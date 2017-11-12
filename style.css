@@ -30,8 +30,9 @@ header nav {
    text-decoration: underline;
    color: #007bff;
    font-size: 18px;
+ }
 
-   header h3 {
+  header h3 {
      float: left;
      font-size: 30px;
    }
