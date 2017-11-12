@@ -16,7 +16,7 @@ header nav {float: right;}
    display: inline;
    margin-right: 10px
  }
- nav a: hover{
+ nav a:hover{
    text-decoration: underline;
    color: #007bff;
    font-size: 18px;
